@@ -28,12 +28,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=himanshugaura&layout=compact&theme=highcontrast" alt="Top languages" />
 </p>
 
----
-
-### 🐍 GitHub Contribution Snake
-
-![Snake animation](https://github.com/himanshugaura/himanshugaura/blob/output/github-contribution-grid-snake.svg)
-
 
 ---
 
