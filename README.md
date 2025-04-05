@@ -32,7 +32,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=himanshugaura&layout=compact&theme=highcontrast" alt="Top languages" />
 </p>
 
-![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/himashugaura/himanshugaura/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
