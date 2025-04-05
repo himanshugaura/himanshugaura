@@ -18,15 +18,15 @@
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=himanshugaura&show_icons=true&theme=synthwave" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=himanshugaura&show_icons=true&theme=monokai" alt="GitHub stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=himanshugaura&theme=radical" alt="GitHub streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=himanshugaura&theme=monokai" alt="GitHub streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=himanshugaura&layout=compact&theme=radical" alt="Top languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=himanshugaura&layout=compact&theme=monokai" alt="Top languages" />
 </p>
 
 ---
