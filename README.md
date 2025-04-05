@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Himanshu</h1>
-<h3 align="center">Developer from [Your Country]</h3>
+
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Web+Developer;MERN+Stack+Dev;Open+Source+Enthusiast" alt="Typing SVG" />
@@ -32,14 +32,11 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=himanshugaura&layout=compact&theme=highcontrast" alt="Top languages" />
 </p>
 
----
-
-### 📫 How to reach me
-- 📧 Email: your.email@example.com
-- 🌐 Portfolio: [your-portfolio-link](https://yourportfolio.com)
-- 💼 LinkedIn: [your-linkedin](https://linkedin.com/in/yourname)
+![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
 
 ---
+
+
 
 ### ⚡ Fun Fact
 > I can debug code faster than I cook noodles 😎
