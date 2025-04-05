@@ -30,7 +30,3 @@
 
 
 ---
-
-### ⚡ Fun Fact
-
-> I can debug code faster than I cook noodles 😎
