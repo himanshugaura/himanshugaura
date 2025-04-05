@@ -10,7 +10,7 @@
 ### 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,redux,tailwind,nextjs,nodejs,express,jwt,RESTAPI" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,redux,tailwind,nextjs,nodejs,express,jwt" />
 </p>
 
 ---
@@ -18,7 +18,7 @@
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=himanshugaura&show_icons=true&theme=radical" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=himanshugaura&show_icons=true&theme=synthwave" alt="GitHub stats" />
 </p>
 
 <p align="center">
