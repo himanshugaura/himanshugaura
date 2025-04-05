@@ -10,8 +10,16 @@
 ### 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,redux,tailwind,nextjs,nodejs,express,jwt,mongoDB,c,cpp,python" />
+  <!-- Skillicons-supported -->
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,redux,tailwind,nextjs,nodejs,express,c,cpp,python" /><br><br>
+
+  <!-- MongoDB -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" height="40"/>
+
+  <!-- JWT (custom image link, since not on Devicon) -->
+  <img src="https://cdn.auth0.com/blog/logos/jwt-logo.png" height="40" />
 </p>
+
 
 ---
 
