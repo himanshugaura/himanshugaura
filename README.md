@@ -12,12 +12,6 @@
 <p align="center">
   <!-- Skillicons icons -->
   <img src="https://skillicons.dev/icons?i=html,css,js,react,redux,tailwind,nextjs,nodejs,express,mongodb,c,cpp,python" /><br><br>
-
-  <!-- MongoDB logo (rounded) -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" style="border-radius: 50%; margin-right: 10px;" />
-
-  <!-- JWT logo (rounded) -->
-  <img src="https://cdn.auth0.com/blog/logos/jwt-logo.png" height="40" style="border-radius: 50%;" />
 </p>
 
 
