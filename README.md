@@ -9,7 +9,7 @@
 ### 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,react,redux,jwt,nextjs,nodejs,express,mongodb,c,cpp,python" />
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,react,redux,nextjs,nodejs,express,mongodb,c,cpp,python" />
 </p>
 
 ---
