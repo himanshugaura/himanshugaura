@@ -9,12 +9,12 @@
 ### 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,react,redux,nextjs,nodejs,express,mongodb,zod,socketio,typescript,c,cpp,python" />
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,react,redux,nextjs,nodejs,express,mongodb,socket.io,typescript,c,cpp,python" />
 </p>
 
 ---
 
-### 📈 GitHub Stats
+### 📈 GitHub Stat
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=himanshugaura&theme=highcontrast" alt="GitHub streak" />
