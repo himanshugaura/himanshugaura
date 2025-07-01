@@ -6,7 +6,7 @@
 
 ---
 
-### 🛠️ Tech Stack
+### 🛠️ Skills
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,react,redux,nextjs,nodejs,express,mongodb,typescript,c,cpp,python" />
